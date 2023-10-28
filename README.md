@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
+![MasterHead](https://github.com/B1AYNN/B1AYNN/blob/main/b1ayn/blob/main/img/LOIC-0.png)
 <div align="center">
  <a href="https://github.com/B1AYNN">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8B1ayn%e2%9c%a8;%f0%9f%93%9aEthical+hacker%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
