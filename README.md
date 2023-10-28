@@ -1,4 +1,4 @@
-![MasterHead](https://en.wikipedia.org/wiki/Low_Orbit_Ion_Cannon#/media/File:LOIC-0.png)
+<img src="https://en.wikipedia.org/wiki/Low_Orbit_Ion_Cannon#/media/File:LOIC-0.png" alt="Banner" width="984" height="518">
 
 <h1 align="center">Hi 👋, I'm B1ayn</h1>
 <h3 align="center">I'm a hacker and content creator.</h3>
